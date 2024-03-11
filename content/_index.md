@@ -13,7 +13,7 @@ sections:
     design:
       background:
         color: white
-        text_color_light: true
+        text_color_light: false
         image:
           # Add your image background to `assets/media/`.
           filename: 
