@@ -26,10 +26,12 @@ sections:
     content:
       title:
       subtitle: ''
+      position: center
       text: |-
-        Computational cognitive scientist studying cognitive and affective dynamics in mental health.
+        Computational cognitive scientist studying the learning mechanisms underlying changes in mental health.
 
-        **Methods:** Computational modeling, reinforcement learning, virtual reality, eye-tracking
+        [My lab](https://radulesculab.org/)'s research focuses on how changes in cognitive and affective processes emerge as a result of interaction with the environment. 
+ 
     design:
       columns: '1'
   - block: collection
