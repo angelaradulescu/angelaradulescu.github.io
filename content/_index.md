@@ -12,8 +12,8 @@ sections:
       text: 
     design:
       background:
-        color: white
-        text_color_light: false
+        color: black
+        text_color_light: true
         image:
           # Add your image background to `assets/media/`.
           filename: 
@@ -27,9 +27,9 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Computational cognitive neuroscientist studying cognitive and affective dynamics in mental health.
 
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+        **Methods:** Computational modeling, reinforcement learning, virtual reality, eye-tracking
     design:
       columns: '1'
   - block: collection
