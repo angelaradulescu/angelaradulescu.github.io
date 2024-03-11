@@ -12,7 +12,7 @@ sections:
       text: 
     design:
       background:
-        color: black
+        color: "#080808"
         text_color_light: true
         image:
           # Add your image background to `assets/media/`.
