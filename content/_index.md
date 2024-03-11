@@ -24,10 +24,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'Welcome 👋'
+      title:
       subtitle: ''
       text: |-
-        Computational cognitive neuroscientist studying cognitive and affective dynamics in mental health.
+        Computational cognitive scientist studying cognitive and affective dynamics in mental health.
 
         **Methods:** Computational modeling, reinforcement learning, virtual reality, eye-tracking
     design:
