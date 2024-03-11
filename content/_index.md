@@ -26,11 +26,10 @@ sections:
     content:
       title:
       subtitle: ''
-      position: center
       text: |-
         Computational cognitive scientist studying the learning mechanisms underlying changes in mental health.
 
-        [My lab](https://radulesculab.org/)'s research focuses on how changes in cognitive and affective processes emerge as a result of interaction with the environment. 
+        [Research group](https://radulesculab.org/) leader at the Mt. Sinai Center for Computational Psychiatry. 
  
     design:
       columns: '1'
