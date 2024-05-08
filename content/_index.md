@@ -36,11 +36,7 @@ sections:
     content:
       title: '### Recent News'
       subtitle: ''
-      text: '**April 2024**: Gave a talk at the [Mt. Sinai Neuroscience](https://friedmanbrain.icahn.mssm.edu/retreat-24/?    pk_vid=8893060ae19e76501715204610fe22a8) retreat.
-      
-              <ul>
-                <li>**April 2024**: Gave a talk at the [Mt. Sinai Neuroscience](https://friedmanbrain.icahn.mssm.edu/retreat-24/?pk_vid=8893060ae19e76501715204610fe22a8) retreat. </li>
-            </ul>'
+      text: '**April 2024**: Gave a talk at the [Mt. Sinai Neuroscience retreat](https://friedmanbrain.icahn.mssm.edu/retreat-24/?).'
     design:
       columns: '1'
   # - block: collection
