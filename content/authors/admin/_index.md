@@ -6,7 +6,7 @@ title: Angela Radulescu
 superuser: true
 
 # Role/position
-role: Assistant Professor, Investigator Track
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -35,9 +35,9 @@ social:
   link: https://github.com/angelaradulescu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
