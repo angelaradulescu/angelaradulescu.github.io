@@ -31,6 +31,14 @@ sections:
  
     design:
       columns: '1'
+
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
   # - block: collection
   #   content:
   #     title: Recent News
