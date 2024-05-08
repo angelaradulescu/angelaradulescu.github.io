@@ -34,9 +34,9 @@ sections:
 
   - block: markdown
     content:
-      title: Recent News
+      title: '### Recent News'
       subtitle: ''
-      text:
+      text: 
     design:
       columns: '1'
   # - block: collection
