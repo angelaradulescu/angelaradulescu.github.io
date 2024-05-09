@@ -36,7 +36,9 @@ sections:
     content:
       title: '### Recent News'
       subtitle: ''
-      text: '- **July 2024**: Will give a tutorial at the SRDNA workshop at Penn. - **July 2024**: Will give a tutorial at the [Computational Psychiatry Conference](https://www.cpconf.org/) at UMN. - **April 2024**: Gave a talk at the [Mt. Sinai Neuroscience retreat](https://friedmanbrain.icahn.mssm.edu/retreat-24/?).'
+      text: '- **July 2024**: Will give a tutorial at the SRDNA workshop at Penn. 
+      - **July 2024**: Will give a tutorial at the [Computational Psychiatry Conference](https://www.cpconf.org/) at UMN. 
+      - **April 2024**: Gave a talk at the [Mt. Sinai Neuroscience retreat](https://friedmanbrain.icahn.mssm.edu/retreat-24/?).'
     design:
       columns: '1'
   # - block: collection
