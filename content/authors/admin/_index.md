@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+title: ' ## Angela Radulescu'
 
 # Is this the primary user of the site?
 superuser: true
