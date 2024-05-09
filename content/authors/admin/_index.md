@@ -33,6 +33,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/angelaradulescu
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/angela-radulescu-900a7224/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 # - icon: cv
