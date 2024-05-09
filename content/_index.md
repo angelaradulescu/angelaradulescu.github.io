@@ -29,7 +29,7 @@ sections:
       text: |-
         Computational cognitive scientist studying the learning mechanisms underlying changes in mental health. Leading a [research group](https://radulesculab.org/) at the Mt. Sinai Center for Computational Psychiatry. 
         
-        My research focuses on building formal models of symptom dynamics across different diagnostic categories. Methods: reinforcement learning, Bayesian inference, behavioral experiments, virtual reality.  
+        My research focuses on modeling symptom dynamics across different diagnostic categories. Methods: reinforcement learning, Bayesian inference, behavioral experiments, virtual reality.  
  
     design:
       columns: '1'
