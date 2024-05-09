@@ -27,7 +27,7 @@ sections:
       title:
       subtitle: ''
       text: |-
-        I am a computational cognitive scientist studying the learning mechanisms underlying changes in mental health and [research group](https://radulesculab.org/) leader at the Mt. Sinai Center for Computational Psychiatry. 
+        I am a computational cognitive scientist studying the learning mechanisms underlying changes in mental health. I lead a [research group](https://radulesculab.org/) at the Mt. Sinai Center for Computational Psychiatry. 
  
     design:
       columns: '1'
@@ -36,7 +36,7 @@ sections:
     content:
       title: '### Recent News'
       subtitle: ''
-      text: '**April 2024**: Gave a talk at the [Mt. Sinai Neuroscience retreat](https://friedmanbrain.icahn.mssm.edu/retreat-24/?).'
+      text: '**July 2024**: Will give a tutorial at the SRDNA workshop at Penn. \ **July 2024**: Will give a tutorial at the [Computational Psychiatry Conference](https://www.cpconf.org/) at UMN. \ **April 2024**: Gave a talk at the [Mt. Sinai Neuroscience retreat](https://friedmanbrain.icahn.mssm.edu/retreat-24/?).'
     design:
       columns: '1'
   # - block: collection
