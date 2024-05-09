@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Angela Radulescu
+title: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +23,7 @@ bio: My research focuses on the learning mechanisms underlying changes in mental
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:angela.radulescu@mssm.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/angelaradulescu
