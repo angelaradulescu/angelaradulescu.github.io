@@ -24,7 +24,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'Welcome!'
+      title: '### Welcome!'
       subtitle: ''
       text: |-
         I am a computational cognitive scientist studying the learning mechanisms underlying changes in mental health. I lead a [research group](https://radulesculab.org/) at the Mt. Sinai Center for Computational Psychiatry. 
