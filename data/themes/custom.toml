@@ -8,7 +8,7 @@ name = "Custom"
   # Menu
   menu_primary = "#f0f0f0"
   menu_text = "#000"
-  menu_text_active = "#fdfbe4"
+  menu_text_active = "#659dbd"
   menu_title = "#000"
 
   # Backgrounds
