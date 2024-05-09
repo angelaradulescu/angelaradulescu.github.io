@@ -36,10 +36,10 @@ sections:
     content:
       title: '### Recent News'
       subtitle: ''
-      text: '- **Aug. 2024**: Will attend [CCN](https://2024.ccneuro.org/) at MIT. 
-             <li> **Jul. 2024**: Will give a tutorial at the SRDNA workshop at Penn. </li>
-             <li> **Jul. 2024**: Will give a tutorial at the [Computational Psychiatry Conference](https://www.cpconf.org/) at UMN. </li> 
-            <li> **Apr/ 2024**: Gave a talk at the [Mt. Sinai Neuroscience retreat](https://friedmanbrain.icahn.mssm.edu/retreat-24/?). </li>'
+      text: '- **Aug. 2024**: Attending [CCN](https://2024.ccneuro.org/) at MIT. 
+             <li> **Jul. 2024**: Giving a tutorial at the SRDNA workshop at Penn. </li>
+             <li> **Jul. 2024**: Giving a tutorial at the [Computational Psychiatry Conference](https://www.cpconf.org/) at UMN. </li> 
+            <li> **Apr. 2024**: Gave a talk at the [Mt. Sinai Neuroscience retreat](https://friedmanbrain.icahn.mssm.edu/retreat-24/?). </li>'
     design:
       columns: '1'
   # - block: collection
