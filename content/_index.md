@@ -27,7 +27,9 @@ sections:
       title: '### Welcome!'
       subtitle: ''
       text: |-
-        I am a computational cognitive scientist studying the learning mechanisms underlying changes in mental health. I lead a [research group](https://radulesculab.org/) at the Mt. Sinai Center for Computational Psychiatry. 
+        Computational cognitive scientist studying the learning mechanisms underlying changes in mental health. 
+        
+        Leading a [research group](https://radulesculab.org/) at the Mt. Sinai Center for Computational Psychiatry. 
  
     design:
       columns: '1'
