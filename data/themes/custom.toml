@@ -3,7 +3,7 @@ name = "Custom"
 
 [light]
   # Primary
-  primary = "#dd2c00"
+  primary = "#659dbd"
 
   # Menu
   menu_primary = "#000"
