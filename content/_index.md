@@ -5,6 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
+
   - block: about.avatar
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -22,6 +23,7 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: markdown
     content:
       title: ''
@@ -30,7 +32,6 @@ sections:
         Computational cognitive scientist studying the learning mechanisms underlying changes in mental health. Leading a [research group](https://radulesculab.org/) at the Mt. Sinai Center for Computational Psychiatry.
         
         My research focuses on modeling how symptom dynamics across different diagnostic categories emerge from the interaction of cognitive and affective processes. Methods: reinforcement learning, Bayesian inference, behavioral experiments, virtual reality, fMRI.
- 
     design:
       columns: '1'
 
@@ -44,30 +45,5 @@ sections:
             <li> **Apr. 2024**: Gave a talk at the [Mt. Sinai Neuroscience retreat](https://friedmanbrain.icahn.mssm.edu/retreat-24/?). </li>'
     design:
       columns: '1'
-  # - block: collection
-  #   content:
-  #     title: Recent News
-  #     subtitle: ''
-  #     text: ''
-  #     # Page type to display. E.g. post, talk, publication...
-  #     page_type: post
-  #     # Choose how many pages you would like to display (0 = all pages)
-  #     count: 5
-  #     # Filter on criteria
-  #     filters:
-  #       author: ""
-  #       category: ""
-  #       tag: ""
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     # Choose how many pages you would like to offset by
-  #     offset: 0
-  #     # Page order: descending (desc) or ascending (asc) date.
-  #     order: desc
-  #   design:
-  #     # Choose a layout view
-  #     view: compact
-  #     columns: '1'
+      
 ---
