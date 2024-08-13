@@ -12,7 +12,9 @@ role: Assistant Professor
 organizations:
 - name: Icahn School of Medicine at Mt. Sinai
   url: ""
-
+- name: angela.radulescu at mssm dot edu
+  url: ""
+  
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on the learning mechanisms underlying changes in mental health.
 
