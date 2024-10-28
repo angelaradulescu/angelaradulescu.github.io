@@ -5,9 +5,9 @@ authors:
 - Reka Daniel
 - Yael Niv
 
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2016-12-01T00:00:00Z"
 doi: ""
 
