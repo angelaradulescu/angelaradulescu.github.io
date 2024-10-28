@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Affect-congruent attention modulates generalized reward expectations"
 authors:
 - admin
 - Robert Ford
