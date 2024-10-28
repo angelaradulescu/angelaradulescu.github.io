@@ -1,8 +1,12 @@
 ---
 title: "Affect-congruent attention modulates generalized reward expectations"
 authors:
+- Daniel Bennett
 - admin
-- Robert Ford
+- Sam Zorowitz
+- Valkyrie Felso
+- Yael Niv
+
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
