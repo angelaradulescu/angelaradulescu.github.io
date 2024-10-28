@@ -1,5 +1,6 @@
 ---
-title: "Affect-congruent attention modulates generalized reward expectations"
+title: 'Affect-congruent attention modulates generalized reward expectations'
+
 authors:
 - Daniel Bennett
 - admin
@@ -31,8 +32,8 @@ abstract: Positive and negative affective states are respectively associated wit
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- Source Themes
+tags: []
+
 featured: false
 
 # links:
@@ -66,7 +67,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
 <!-- {{% callout note %}}
