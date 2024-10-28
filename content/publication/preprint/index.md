@@ -6,11 +6,11 @@ authors:
 - Frederick Callaway
 - Thomas L. Griffiths
 - James M. Hillis
-date: "2022-04-07T00:00:00Z"
+date: "2022-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2022-12-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -31,16 +31,16 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+# - name: Custom Link
+#   url: http://example.org
+url_pdf: https://www.biorxiv.org/content/10.1101/2022.12.01.518717v1
+url_code: ''
+url_dataset: ''
+url_poster: 'https://baicsworkshop.github.io/program/baics_33.html'
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
