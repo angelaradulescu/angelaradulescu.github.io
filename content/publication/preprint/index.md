@@ -21,10 +21,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The nature of eye movements during visual search has been widely studied in psychology and neuroscience. Virtual reality (VR) paradigms provide an opportunity to test whether computational models of search can predict naturalistic search behavior. However, existing ideal observer models are constrained by strong assumptions about the structure of the world, rendering them impractical for modeling the complexity of environments that can be studied in VR. To address these limitations, we frame naturalistic visual search as a problem of allocating limited cognitive resources, formalized as a meta-level Markov decision process (meta-MDP) over a representation of the environment encoded by a deep neural network. We train reinforcement learning agents to solve the meta-MDP, showing that the agents’ optimal policy converges to a classic ideal observer model of search developed for simplified environments. We compare the learned policy with human gaze data from a visual search experiment conducted in VR, finding a qualitative and quantitative correspondence between model predictions and human behavior. Our results suggest that gaze behavior in naturalistic visual search is consistent with rational allocation of limited cognitive resources.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
 - Source Themes
