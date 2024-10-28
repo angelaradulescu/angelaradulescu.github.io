@@ -25,7 +25,7 @@ publication_types: ["article-journal"]
 publication: "*PLoS Computational Biology*"
 publication_short: ""
 
-abstract: ''
+abstract: 'Hello!'
 
 # Summary. An optional shortened abstract.
 summary: ''
