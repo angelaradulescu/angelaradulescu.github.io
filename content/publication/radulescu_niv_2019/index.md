@@ -1,9 +1,8 @@
 ---
-title: "Holistic reinforcement learning: the role of structure and attention"
+title: "State representation in mental illness"
 authors:
 - admin
 - Yael Niv
-- Ian Ballard
 
 # author_notes:
 # - "Equal contribution"
@@ -23,10 +22,10 @@ publication_types: ["article-journal"]
 publication: "*Trends in Cognitive Sciences*"
 publication_short: ""
 
-abstract: 'Compact representations of the environment allow humans to behave efficiently in a complex world. Reinforcement learning models capture many behavioral and neural effects but do not explain recent findings showing that structure in the environment influences learning. In parallel, Bayesian cognitive models predict how humans learn structured knowledge but do not have a clear neurobiological implementation. We propose an integration of these two model classes in which structured knowledge learned via approximate Bayesian inference acts as a source of selective attention. In turn, selective attention biases reinforcement learning towards relevant dimensions of the environment. An understanding of structure learning will help to resolve the fundamental challenge in decision science: explaining why people make the decisions they do.'
+abstract: 'Reinforcement learning theory provides a powerful set of computational ideas for modeling human learning and decision making. Reinforcement learning algorithms rely on state representations that enable efficient behavior by focusing only on aspects relevant to the task at hand. Forming such representations often requires selective attention to the sensory environment, and recalling memories of relevant past experiences. A striking range of psychiatric disorders, including bipolar disorder and schizophrenia, involve changes in these cognitive processes. We review and discuss evidence that these changes can be cast as altered state representation, with the goal of providing a useful transdiagnostic dimension along which mental disorders can be understood and compared.'
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'Hello'
 
 tags:
 - Source Themes
@@ -35,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC6472955/'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0959438818300928'
 url_code: ''
 url_dataset: ''
 url_poster: ''
