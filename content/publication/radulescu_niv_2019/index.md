@@ -19,7 +19,7 @@ publishDate: "2019-12-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Trends in Cognitive Sciences*"
+publication: "*Current Opinion in Neurobiology*"
 publication_short: ""
 
 abstract: 'Reinforcement learning theory provides a powerful set of computational ideas for modeling human learning and decision making. Reinforcement learning algorithms rely on state representations that enable efficient behavior by focusing only on aspects relevant to the task at hand. Forming such representations often requires selective attention to the sensory environment, and recalling memories of relevant past experiences. A striking range of psychiatric disorders, including bipolar disorder and schizophrenia, involve changes in these cognitive processes. We review and discuss evidence that these changes can be cast as altered state representation, with the goal of providing a useful transdiagnostic dimension along which mental disorders can be understood and compared.'
