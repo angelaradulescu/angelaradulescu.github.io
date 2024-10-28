@@ -7,22 +7,22 @@ authors:
 - Valkyrie Felso
 - Yael Niv
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2023-09-01T00:00:00Z"
-doi: ""
+- 'Equal contribution'
+- 'Equal contribution'
+date: '2023-09-01T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-01T00:00:00Z"
+publishDate: '2023-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "PLoS Computational Biology"
-publication_short: ""
+publication: PLoS Computational Biology
+publication_short: PLoS Computational Biology
 
 abstract: Positive and negative affective states are respectively associated with optimistic and pessimistic expectations regarding future reward. One mechanism that might underlie these affect-related expectation biases is attention to positive- versus negative-valence features (e.g., attending to the positive reviews of a restaurant versus its expensive price). Here we tested the effects of experimentally induced positive and negative affect on feature-based attention in 120 participants completing a compound-generalization task with eye-tracking. We found that participants’ reward expectations for novel compound stimuli were modulated in an affect-congruent way: positive affect induction increased reward expectations for compounds, whereas negative affect induction decreased reward expectations. Computational modelling and eye-tracking analyses each revealed that these effects were driven by affect-congruent changes in participants’ allocation of attention to high- versus low-value features of compounds. These results provide mechanistic insight into a process by which affect produces biases in generalized reward expectations.
 
@@ -49,7 +49,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ''
-  focal_point: ""
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
