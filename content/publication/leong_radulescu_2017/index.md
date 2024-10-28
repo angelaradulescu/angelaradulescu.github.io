@@ -4,7 +4,7 @@ authors:
 - Yuan Chang Leong
 - admin
 - Reka Daniel
-- Vivan de Woskin
+- Vivian de Woskin
 - Yael Niv
 
 author_notes:
