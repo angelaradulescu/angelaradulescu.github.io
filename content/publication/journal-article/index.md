@@ -25,7 +25,7 @@ publication_types: ["article-journal"]
 publication: "*PLoS Computational Biology*"
 publication_short: ""
 
-abstract: Positive and negative affective states are respectively associated with optimistic and pessimistic expectations regarding future reward. One mechanism that might underlie these affect-related expectation biases is attention to positive- versus negative-valence features (e.g., attending to the positive reviews of a restaurant versus its expensive price). Here we tested the effects of experimentally induced positive and negative affect on feature-based attention in 120 participants completing a compound-generalization task with eye-tracking. We found that participants’ reward expectations for novel compound stimuli were modulated in an affect-congruent way: positive affect induction increased reward expectations for compounds, whereas negative affect induction decreased reward expectations. Computational modelling and eye-tracking analyses each revealed that these effects were driven by affect-congruent changes in participants’ allocation of attention to high- versus low-value features of compounds. These results provide mechanistic insight into a process by which affect produces biases in generalized reward expectations.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
