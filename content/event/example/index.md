@@ -16,13 +16,13 @@ featured: false
 image:
   caption: ''
   focal_point: Right
-location: Icahn School of Medicine at Mt. Sinai
+location: Mt. Sinai Center for Computational Psychiatry
 math: true
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Introductory computational psychiatry course with a focus on behavioral modeling.
 tags: []
-title: Example Talk
+title: BSR2708 Computational Psychiatry
 url_code: ""
 url_pdf: ""
 url_slides: ""
