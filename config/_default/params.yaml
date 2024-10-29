@@ -10,7 +10,7 @@ appearance:
   theme_night:
   font: rose
   font_size: L
-  favicon: "assets/media/icon/favicon.ico"
+  favicon: "favicon.ico"
 
 # SEO
 
