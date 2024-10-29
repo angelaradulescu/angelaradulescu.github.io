@@ -31,7 +31,7 @@ sections:
       text: |-
         Computational cognitive scientist studying the learning mechanisms underlying changes in mental health. Leading a [research group](https://radulesculab.org/) at the [Mt. Sinai Center for Computational Psychiatry](https://icahn.mssm.edu/research/center-for-computational-psychiatry/team).
         
-        My research focuses on modeling how symptom dynamics across different diagnostic categories emerge from the interaction of cognitive and affective processes. Methods: reinforcement learning, Bayesian inference, behavioral experiments, virtual reality, fMRI.
+        My research focuses on modeling how transdiagnostic symptom dynamics emerge from the interaction of cognitive and affective processes. Methods: reinforcement learning, Bayesian inference, behavioral experiments, virtual reality, fMRI.
     design:
       columns: '1'
 
@@ -39,7 +39,8 @@ sections:
     content:
       title: '### News'
       subtitle: ''
-      text: '- **Aug. 2024**: Attending [CCN](https://2024.ccneuro.org/) at MIT. 
+      text: '- **Oct. 2024**: Co-organized the [New York Computational Psychiatry Workshop](https://center-for-computational-psychiatry.github.io/course_nycpw/) at Mt. Sinai.
+            - **Aug. 2024**: Attending [CCN](https://2024.ccneuro.org/) at MIT. 
              <li> **Jul. 2024**: Giving a tutorial at the SRDNA workshop at Penn. </li>
              <li> **Jul. 2024**: Giving a tutorial at the [Computational Psychiatry Conference](https://www.cpconf.org/) at UMN. </li> 
             <li> **Apr. 2024**: Gave a talk at the [Mt. Sinai Neuroscience retreat](https://friedmanbrain.icahn.mssm.edu/retreat-24/?). </li>'
