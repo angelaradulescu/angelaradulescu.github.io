@@ -1,5 +1,5 @@
 ---
-abstract: At the intersection of psychology, neuroscience and AI, computational models are aimed at understanding the mechanisms underlying cognitive processes that drive behavior, and how these processes are altered in neuropsychiatric disorders. In this course, we discuss some of the goals, foundational ideas, and technical concepts behind computational modeling. We will survey several modeling approaches, including Bayesian inference, reinforcement learning and neural modeling. And we will get hands on experience with building and fitting models to data from different modalities.
+abstract: At the intersection of psychology, neuroscience and AI, computational models are aimed at understanding the mechanisms underlying cognitive processes that drive behavior, and how these processes are altered in neuropsychiatric disorders. In this course, we discuss some of the goals, foundational ideas, and technical concepts behind computational modeling. We will survey several modeling approaches, including reinforcement learning, Bayesian inference and neural modeling. And we will get hands on experience with building and fitting models to data from different modalities.
 # address:
 #   city: Stanford
 #   country: United States
