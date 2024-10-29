@@ -1,5 +1,5 @@
 ---
-title: Courses taught
+title: Courses
 cms_exclude: true
 #url: talk
 
