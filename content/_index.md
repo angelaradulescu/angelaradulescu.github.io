@@ -39,10 +39,10 @@ sections:
     content:
       title: '### News'
       subtitle: ''
-      text: '- **Oct. 2024**: Co-organized the [New York Computational Psychiatry Workshop](https://center-for-computational-psychiatry.github.io/course_nycpw/) at Mt. Sinai.
-            - **Aug. 2024**: Attending [CCN](https://2024.ccneuro.org/) at MIT. 
-             <li> **Jul. 2024**: Giving a tutorial at the SRDNA workshop at Penn. </li>
-             <li> **Jul. 2024**: Giving a tutorial at the [Computational Psychiatry Conference](https://www.cpconf.org/) at UMN. </li> 
+      text: '- **Oct. 2024**: Co-organizing the [New York Computational Psychiatry Workshop](https://center-for-computational-psychiatry.github.io/course_nycpw/). </li>
+            <li> **Aug. 2024**: Attending [CCN](https://2024.ccneuro.org/) at MIT. 
+            <li> **Jul. 2024**: Giving a tutorial at the SRDNA workshop at Penn. </li>
+            <li> **Jul. 2024**: Giving a tutorial at the [Computational Psychiatry Conference](https://www.cpconf.org/) at UMN. </li> 
             <li> **Apr. 2024**: Gave a talk at the [Mt. Sinai Neuroscience retreat](https://friedmanbrain.icahn.mssm.edu/retreat-24/?). </li>'
     design:
       columns: '1'
