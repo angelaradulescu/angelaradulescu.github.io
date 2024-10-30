@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC6472955/'
+url_pdf: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC6472955/pdf/nihms-1520045.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
