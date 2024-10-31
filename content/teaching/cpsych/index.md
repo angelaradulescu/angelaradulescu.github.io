@@ -20,7 +20,7 @@ location: Mt. Sinai Center for Computational Psychiatry
 math: true
 publishDate: "2024-10-31T00:00:00Z"
 slides: ''
-summary: At the intersection of psychology, neuroscience and AI, computational models are aimed at understanding the mechanisms underlying cognitive processes that drive behavior, and how these processes are altered in neuropsychiatric disorders. In this [course](https://center-for-computational-psychiatry.github.io/course_fcp/), we discuss some of the goals, foundational ideas, and technical concepts behind computational modeling. We will survey several modeling approaches, including reinforcement learning, Bayesian inference and neural modeling. And we will get hands on experience with building and fitting models to data from different modalities.
+summary: At the intersection of psychology, neuroscience and AI, computational models are aimed at understanding the mechanisms underlying cognitive processes that drive behavior, and how these processes are altered in neuropsychiatric disorders. In this [course](https://center-for-computational-psychiatry.github.io/course_fcp/), we discuss some of the goals, foundational ideas, and technical concepts behind computational modeling. We survey several modeling approaches, including reinforcement learning, Bayesian inference and neural modeling. And we get hands on experience with building and fitting models to data from different modalities.
 tags: []
 title: BSR2708 Computational Psychiatry
 url_code: ""
