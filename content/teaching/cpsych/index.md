@@ -18,7 +18,7 @@ image:
   focal_point: Right
 location: Mt. Sinai Center for Computational Psychiatry
 math: true
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-12-01T00:00:00Z"
 slides: ''
 summary: Introductory computational psychiatry course with a focus on behavioral modeling.
 tags: []
