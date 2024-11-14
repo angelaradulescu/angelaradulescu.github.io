@@ -28,9 +28,9 @@ abstract: 'Humans possess a remarkable ability to make decisions within real-wor
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 # links:
 # - name: ""

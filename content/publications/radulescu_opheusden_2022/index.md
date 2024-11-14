@@ -32,9 +32,9 @@ abstract: The nature of eye movements during visual search has been widely studi
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 links:
 # - name: Custom Link

@@ -27,9 +27,9 @@ abstract: 'Reinforcement learning theory provides a powerful set of computationa
 # Summary. An optional shortened abstract.
 summary: 'Hello'
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 # links:
 # - name: ""
