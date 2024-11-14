@@ -30,9 +30,9 @@ abstract: 'Positive and negative affective states are respectively associated wi
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 # links:
 # - name: ""
