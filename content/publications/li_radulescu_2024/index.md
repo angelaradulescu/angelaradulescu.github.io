@@ -12,11 +12,11 @@ authors:
 # author_notes:
 #   - 'Trainee author'
 
-date: '2024-07-01T00:00:00Z'
+date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-07-01T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,7 +25,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the Annual Meeting of the Cognitive Science Society (46)*
-publication_short: In *CogSci (46)*
+publication_short: In *Proceedings of the Annual Meeting of the Cognitive Science Society (46)*
 
 abstract: Bipolar disorder (BD) is a mental health condition characterized by large fluctuations in goal-directed energy and mood. BD is defined by the presence of at least one lifetime episode of mania, a prolonged period of excessive goal-directed behavior, hyperactivity and elevated mood. Previous computational models of BD have primarily focused on explaining mood fluctuations in mania, placing less emphasis on goal-directed symptoms. In this work, we use reinforcement learning (RL), a principled model of goal-directed behavior and learning, to show how augmenting RL agents with dynamic self-efficacy beliefs can give rise to goal-directed and mood symptoms characteristic of the mania phase of BD. Our simulations demonstrate that a model-free RL agent that dynamically updates its self-efficacy beliefs learns optimistic overgeneralized value representations. We suggest that these representations may underlie several behaviors associated with mania, such as increased motivational drive and faster initiation of approach behavior (i.e. impatience). We further show that agents with more sensitive self-efficacy beliefs display increased willingness to exert effort in order to achieve higher goals even in the face of costs, a characteristic that is observed in individuals at risk for BD. Finally, unrealistically high self-efficacy beliefs that emerged with learning were accompanied by behaviors such as distractibility and compulsive action selection that have clinical parallels to symptoms of mania.
 
