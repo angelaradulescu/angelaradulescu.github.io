@@ -41,7 +41,7 @@ sections:
       title: '### News'
       subtitle: ''
       text: '- **Oct. 2024**: Co-organizing the [New York Computational Psychiatry Workshop](https://center-for-computational-psychiatry.github.io/course_nycpw/). </li>
-            <li> **Sep. 2024**: New paper on ['emotional overshadowing'](https://link.springer.com/article/10.1007/s42761-024-00270-0) with Dan Bennett.
+            <li> **Sep. 2024**: New paper on [emotional overshadowing](https://link.springer.com/article/10.1007/s42761-024-00270-0) with Dan Bennett.
             <li> **Aug. 2024**: Attending [CCN](https://2024.ccneuro.org/) at MIT. 
             <li> **Jul. 2024**: Giving a tutorial at the SRDNA workshop at Penn. </li>
             <li> **Jul. 2024**: Giving a tutorial at the [Computational Psychiatry Conference](https://www.cpconf.org/) at UMN. </li> 
