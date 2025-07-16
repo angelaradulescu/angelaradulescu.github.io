@@ -40,7 +40,7 @@ sections:
     content:
       title: '### News'
       subtitle: ''
-      text: '- **Aug. 2025**: Lecturing at the [School on Analytical Connectionism](https://www.analytical-connectionism.net//school/2025/) at UCL. </li>
+      text: '- **Aug. 2025**: Giving a lecture at the [School on Analytical Connectionism](https://www.analytical-connectionism.net//school/2025/) at UCL. </li>
             <li> **Aug. 2025**: Attending [CCN](https://2025.ccneuro.org/) at the University of Amsterdam. </li>
             <li>**June 2025**: Gave a talk at [RLDM](https://rldm.org/rldm-2025-recordings/) at Trinity College Dublin. </li>
             <li>**Jan. 2025**: New paper with Juliana Trach, [Megan DeBettencourt](https://debetten.github.io/) and  [Sam McDougle](https://actcompthink.org/) on [rewarding sustained attention](https://psycnet.apa.org/record/2025-70580-001). </li>
