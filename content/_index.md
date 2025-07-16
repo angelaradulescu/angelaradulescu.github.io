@@ -40,7 +40,10 @@ sections:
     content:
       title: '### News'
       subtitle: ''
-      text: '- **Jan. 2025**: New paper with Juliana Trach, [Megan DeBettencourt](https://debetten.github.io/) and  [Sam McDougle](https://actcompthink.org/) on [rewarding sustained attention](https://psycnet.apa.org/record/2025-70580-001). </li>
+      text: '- **Aug. 2025**: Lecturing at the [School on Analytical Connectionism](https://www.analytical-connectionism.net//school/2025/) at University College London. </li>
+            <li> **Aug. 2025**: Attending [CCN](https://2025.ccneuro.org/) at University of Amsterdam. </li>
+            <li>**June 2025**: Gave a talk at [RLDM](https://rldm.org/rldm-2025-recordings/) at Trinity College Dublin. </li>
+            <li>**Jan. 2025**: New paper with Juliana Trach, [Megan DeBettencourt](https://debetten.github.io/) and  [Sam McDougle](https://actcompthink.org/) on [rewarding sustained attention](https://psycnet.apa.org/record/2025-70580-001). </li>
             <li> **Oct. 2024**: Co-organizing the [New York Computational Psychiatry Workshop](https://center-for-computational-psychiatry.github.io/course_nycpw/). </li>
             <li> **Sep. 2024**: New paper with Jianming Zhu and [Dan Bennett](https://bennett-daniel.github.io/) on [emotional overshadowing](https://link.springer.com/article/10.1007/s42761-024-00270-0).  </li>
             <li> **Aug. 2024**: Attending [CCN](https://2024.ccneuro.org/) at MIT. </li>
