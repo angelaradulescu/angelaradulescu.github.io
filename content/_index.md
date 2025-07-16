@@ -54,4 +54,3 @@ sections:
       columns: '1'
       
 ---
-'- **Jan. 2025**: New paper with Juliana Trach, [Megan DeBettencourt](https://debetten.github.io/) and [Sam McDougle](https://actcompthink.org/) on [rewarding sustained attention](https://psycnet.apa.org/record/2025-70580-001). </li>
