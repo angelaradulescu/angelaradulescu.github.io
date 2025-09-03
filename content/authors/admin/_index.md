@@ -27,7 +27,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=galouqYAAAAJ
 - icon: bluesky
-  icon_pack: brands
+  icon_pack: fab
   link: https://bsky.app/profile/angelaradulescu.bsky.social
 - icon: twitter
   icon_pack: fab
