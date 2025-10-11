@@ -41,7 +41,6 @@ sections:
       title: '### News'
       subtitle: ''
       text: '- **Nov. 2025**: The [New York Computational Psychiatry Workshop](https://center-for-computational-psychiatry.github.io/course_nycpw/) will be back this year at Mt. Sinai. </li>
-            <li> **Nov. 2025**: Giving a talk at the [Smart Diaspora](https://diaspora-stiintifica.ro/index.html) conference at Babeș-Bolyai University in Cluj, Romania. </li>
             <li>**Sep. 2025**: Gave a talk at the [Lipschultz Symposium](https://friedmanbrain.icahn.mssm.edu/lipschultz-symposium-2025/) at Mount Sinai. </li>
             <li> **Aug. 2025**: Giving a lecture at the [School on Analytical Connectionism](https://www.analytical-connectionism.net//school/2025/) at UCL. </li>
             <li> **Aug. 2025**: Attending [CCN](https://2025.ccneuro.org/) at the University of Amsterdam. </li>
