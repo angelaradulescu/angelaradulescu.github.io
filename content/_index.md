@@ -29,9 +29,11 @@ sections:
       title: ''
       subtitle: ''
       text: |-
-        Computational cognitive scientist studying the learning mechanisms underlying changes in mental health. Leading a [research group](https://radulesculab.org/) at the [Mt. Sinai Center for Computational Psychiatry](https://icahn.mssm.edu/research/center-for-computational-psychiatry/team).
+        Cognitive computational neuroscientist studying the learning mechanisms underlying changes in mental health. I am faculty in the [Mt. Sinai Center for Computational Psychiatry](https://icahn.mssm.edu/research/center-for-computational-psychiatry/team) and [Lipschultz Center for Cognitive Neuroscience](https://scholars.mssm.edu/en/organisations/lipschultz-center-for-cognitive-neuroscience), and affiliated with the [Friedman Brain Institute](https://icahn.mssm.edu/research/friedman/research/computational-neuroscience). 
         
-        My research focuses on modeling how transdiagnostic symptom dynamics emerge from the interaction of cognitive and affective processes. Methods: reinforcement learning, Bayesian inference, behavioral experiments, virtual reality, fMRI.
+        My [lab](https://radulesculab.org/) studies how transdiagnostic symptom dynamics emerge from the interaction of cognitive and affective processes. Methods: reinforcement learning, Bayesian inference, behavioral experiments, virtual reality. 
+        
+        Recent [work](https://orcid.org/0000-0003-2274-4265).
         
     design:
       columns: '1'
