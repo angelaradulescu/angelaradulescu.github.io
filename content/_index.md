@@ -33,7 +33,7 @@ sections:
         
         My [lab](https://radulesculab.org/) studies how transdiagnostic symptom dynamics emerge from the interaction of cognitive and affective processes. Methods: reinforcement learning, Bayesian inference, behavioral experiments, virtual reality. 
         
-        Recent [work](https://orcid.org/0000-0003-2274-4265).
+        You can find recent work [here](https://orcid.org/0000-0003-2274-4265).
         
     design:
       columns: '1'
