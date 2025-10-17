@@ -12,6 +12,8 @@ role: Assistant Professor
 organizations:
 - name: Icahn School of Medicine at Mt. Sinai
   url: ""
+- name: Department of Psychiatry
+  url: ""
 - name: angela.radulescu at mssm dot edu
   url: ""
   
