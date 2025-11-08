@@ -43,7 +43,9 @@ sections:
     content:
       title: '### News'
       subtitle: ''
-      text: '- **Nov. 2025**: The [New York Computational Psychiatry Workshop](https://center-for-computational-psychiatry.github.io/course_nycpw/) will be back this year at Mt. Sinai. </li>
+      text: '- 
+            <li>**Nov. 2025**: The [New York Computational Psychiatry Workshop](https://center-for-computational-psychiatry.github.io/course_nycpw/) will be back this year at Mount Sinai. </li>
+            <li>**Oct. 2025**: I’m excited to share that our lab has joined a Mount Sinai team awarded a [Discovery Research Grant](https://www.bipolardiscoveries.org/2025/10/bd%c2%b2-awards-18-million-in-grants-to-advance-research-on-the-biology-of-bipolar-disorder/) from the BD2 Foundation! </li> 
             <li>**Sep. 2025**: Gave a talk at the [Lipschultz Symposium](https://friedmanbrain.icahn.mssm.edu/lipschultz-symposium-2025/) at Mount Sinai. </li>
             <li> **Aug. 2025**: Giving a lecture at the [School on Analytical Connectionism](https://www.analytical-connectionism.net//school/2025/) at UCL. </li>
             <li> **Aug. 2025**: Attending [CCN](https://2025.ccneuro.org/) at the University of Amsterdam. </li>
@@ -54,7 +56,7 @@ sections:
             <li> **Aug. 2024**: Attending [CCN](https://2024.ccneuro.org/) at MIT. </li>
             <li> **Jul. 2024**: Giving a tutorial at the [SRDNA](https://srndna.utdallas.edu/Events/computational-modeling-workshop-2024/) workshop at Penn. </li>
             <li> **Jul. 2024**: Giving a tutorial at the [Computational Psychiatry Conference](https://www.cpconf.org/) at UMN. </li> 
-            <li> **Apr. 2024**: Gave a talk at the [Mt. Sinai Neuroscience retreat](https://friedmanbrain.icahn.mssm.edu/retreat-24/?). </li>'
+            <li> **Apr. 2024**: Gave a talk at the [Mount Sinai Neuroscience retreat](https://friedmanbrain.icahn.mssm.edu/retreat-24/?). </li>'
     design:
       columns: '1'
       
