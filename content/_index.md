@@ -43,8 +43,7 @@ sections:
     content:
       title: '### News'
       subtitle: ''
-      text: '- 
-            <li>**Nov. 2025**: The [New York Computational Psychiatry Workshop](https://center-for-computational-psychiatry.github.io/course_nycpw/) will be back this year at Mount Sinai. </li>
+      text: '- **Nov. 2025**: The [New York Computational Psychiatry Workshop](https://center-for-computational-psychiatry.github.io/course_nycpw/) will be back this year at Mount Sinai. </li>
             <li>**Oct. 2025**: I’m excited to share that our lab has joined a Mount Sinai team awarded a [Discovery Research Grant](https://www.bipolardiscoveries.org/2025/10/bd%c2%b2-awards-18-million-in-grants-to-advance-research-on-the-biology-of-bipolar-disorder/) from the BD2 Foundation! </li> 
             <li>**Sep. 2025**: Gave a talk at the [Lipschultz Symposium](https://friedmanbrain.icahn.mssm.edu/lipschultz-symposium-2025/) at Mount Sinai. </li>
             <li> **Aug. 2025**: Giving a lecture at the [School on Analytical Connectionism](https://www.analytical-connectionism.net//school/2025/) at UCL. </li>
