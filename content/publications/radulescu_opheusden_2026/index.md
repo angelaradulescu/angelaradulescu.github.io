@@ -39,8 +39,8 @@ summary: ''
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.322/135355/A-Resource-Rational-Account-of-Human-Eye-Movements
-url_code: ''
+url_pdf: 'https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.322/135355/A-Resource-Rational-Account-of-Human-Eye-Movements'
+url_code: 'https://github.com/angelaradulescu/modeling-eye-movements-vr'
 url_dataset: ''
 url_poster: ''
 url_project: ''
