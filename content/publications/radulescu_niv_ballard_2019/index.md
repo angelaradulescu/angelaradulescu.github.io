@@ -66,4 +66,4 @@ projects: []
 slides: ''
 ---
 
-To behave well in a busy world, we rely on mental shortcuts -- spotting regularities and mostly ignoring what is irrelevant. Standard reinforcement-learning accounts describe how we learn from rewards, but they miss growing evidence that the structure of a task reshapes what we learn and how fast. This review proposes a combined picture: the brain may infer that structure in a flexible, probabilistic way, use those beliefs to steer attention, and let that attention focus reward-based learning on the parts of the environment that actually matter.
+To behave well in a busy world, we rely on mental shortcuts -- spotting regularities and mostly ignoring what is irrelevant. Standard reinforcement-learning accounts describe how we learn from rewards, but they miss growing evidence that the structure of a task reshapes what we learn and how fast. This review proposes a combined picture: the brain may infer that structure in a flexible, probabilistic way, use those beliefs to steer attention and focus reward-based learning on the parts of the environment that actually matter.
