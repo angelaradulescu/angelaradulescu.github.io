@@ -29,9 +29,9 @@ sections:
       title: ''
       subtitle: ''
       text: |-
-        I am a cognitive computational neuroscientist interested in the learning mechanisms underlying changes in mental health. I am faculty in the [Mt. Sinai Center for Computational Psychiatry](https://icahn.mssm.edu/research/center-for-computational-psychiatry/team), the [Lipschultz Center for Cognitive Neuroscience](https://scholars.mssm.edu/en/organisations/lipschultz-center-for-cognitive-neuroscience), and affiliated with the [Friedman Brain Institute](https://icahn.mssm.edu/research/friedman/research/computational-neuroscience). 
+        Cognitive computational neuroscientist interested in the learning mechanisms underlying changes in mental health. I am faculty in the [Mt. Sinai Center for Computational Psychiatry](https://icahn.mssm.edu/research/center-for-computational-psychiatry/team), the [Lipschultz Center for Cognitive Neuroscience](https://scholars.mssm.edu/en/organisations/lipschultz-center-for-cognitive-neuroscience), and affiliated with the [Friedman Brain Institute](https://icahn.mssm.edu/research/friedman/research/computational-neuroscience). 
 
-        For updates on my research, check out my [lab website](https://radulesculab.org/) and [recent papers] (https://orcid.org/0000-0003-2274-4265). 
+        For updates on my research, check out my [lab website](https://radulesculab.org/) and [recent papers](https://orcid.org/0000-0003-2274-4265). 
         
     design:
       columns: '1'
