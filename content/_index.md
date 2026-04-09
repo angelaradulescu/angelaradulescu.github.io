@@ -29,12 +29,9 @@ sections:
       title: ''
       subtitle: ''
       text: |-
-        Cognitive computational neuroscientist studying the learning mechanisms underlying changes in mental health. I am faculty in the [Mt. Sinai Center for Computational Psychiatry](https://icahn.mssm.edu/research/center-for-computational-psychiatry/team), the [Lipschultz Center for Cognitive Neuroscience](https://scholars.mssm.edu/en/organisations/lipschultz-center-for-cognitive-neuroscience), and affiliated with the [Friedman Brain Institute](https://icahn.mssm.edu/research/friedman/research/computational-neuroscience). 
+        I am a cognitive computational neuroscientist interested in the learning mechanisms underlying changes in mental health. I am faculty in the [Mt. Sinai Center for Computational Psychiatry](https://icahn.mssm.edu/research/center-for-computational-psychiatry/team), the [Lipschultz Center for Cognitive Neuroscience](https://scholars.mssm.edu/en/organisations/lipschultz-center-for-cognitive-neuroscience), and affiliated with the [Friedman Brain Institute](https://icahn.mssm.edu/research/friedman/research/computational-neuroscience). 
 
-        My [lab](https://radulesculab.org/) investigates how patterns of symptoms that cut across psychiatric diagnoses arise from the interplay between cognitive and affective processes. We use methods such as reinforcement learning, Bayesian inference, behavioral experiments, and virtual reality to model how the mind generates behavior and to uncover how the algorithms supporting behavior are implemented in the brain.
-        You can find our recent work [here](https://orcid.org/0000-0003-2274-4265). 
-
-        If you are a prospective PhD student interested in joining the lab, you can learn more about Mount Sinai’s Neuroscience PhD program [here](https://icahn.mssm.edu/education/phd/neuroscience).  
+        For updates on my research, check out my [lab website](https://radulesculab.org/) and [recent papers] (https://orcid.org/0000-0003-2274-4265). 
         
     design:
       columns: '1'
