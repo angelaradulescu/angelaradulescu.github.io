@@ -65,4 +65,4 @@ projects: []
 slides: ''
 ---
 
-When we learn from day-to-day experience, the brain has to decide what matters right now and what we can safely ignore. This review uses ideas from reinforcement learning (how we learn from rewards) and to describe how we learn such internal models in computational terms. We argue that several mental health conditions, including bipolar disorder and schizophrenia, may partly reflect the brain forming or updating these internal models of the world in different ways.
+When we learn from day-to-day experience, the brain has to decide what matters right now and what we can safely ignore. This review uses ideas from reinforcement learning to describe how we learn such internal models in computational terms. We argue that several mental health conditions, including bipolar disorder and schizophrenia, may partly reflect the brain forming or updating these internal models of the world in different ways.
