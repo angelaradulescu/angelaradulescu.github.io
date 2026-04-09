@@ -11,7 +11,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2017-12-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.neuron.2016.12.040"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-12-01T00:00:00Z"
@@ -25,7 +25,7 @@ publication_types: ["article-journal"]
 publication: "*Neuron*"
 publication_short: ""
 
-abstract: 'Positive and negative affective states are respectively associated with optimistic and pessimistic expectations regarding future reward. One mechanism that might underlie these affect-related expectation biases is attention to positive- versus negative-valence features (e.g., attending to the positive reviews of a restaurant versus its expensive price). Here we tested the effects of experimentally induced positive and negative affect on feature-based attention in 120 participants completing a compound-generalization task with eye-tracking. We found that participants’ reward expectations for novel compound stimuli were modulated in an affect-congruent way, such that positive affect induction increased reward expectations for compounds, whereas negative affect induction decreased reward expectations. Computational modelling and eye-tracking analyses each revealed that these effects were driven by affect-congruent changes in participants’ allocation of attention to high- versus low-value features of compounds. These results provide mechanistic insight into a process by which affect produces biases in generalized reward expectations.'
+abstract: 'Little is known about the relationship between attention and learning during decision making. Using eye-tracking and multivariate pattern analysis of fMRI data, we measured participants'' dimensional attention as they performed a trial-and-error learning task in which only one of three stimulus dimensions was relevant for reward at any given time. Attention biased both value computation during choice and value updating during learning, and value signals in ventromedial prefrontal cortex and prediction errors in striatum were similarly attention-weighted. In turn, participants'' focus of attention was dynamically modulated by ongoing learning. These findings support a bidirectional interaction between attention and reinforcement learning in multidimensional environments.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -65,7 +65,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
 <!-- {{% callout note %}}

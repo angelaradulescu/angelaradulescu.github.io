@@ -8,7 +8,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2019-12-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.conb.2019.03.011"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-12-01T00:00:00Z"
@@ -25,7 +25,7 @@ publication_short: ""
 abstract: 'Reinforcement learning theory provides a powerful set of computational ideas for modeling human learning and decision making. Reinforcement learning algorithms rely on state representations that enable efficient behavior by focusing only on aspects relevant to the task at hand. Forming such representations often requires selective attention to the sensory environment, and recalling memories of relevant past experiences. A striking range of psychiatric disorders, including bipolar disorder and schizophrenia, involve changes in these cognitive processes. We review and discuss evidence that these changes can be cast as altered state representation, with the goal of providing a useful transdiagnostic dimension along which mental disorders can be understood and compared.'
 
 # Summary. An optional shortened abstract.
-summary: 'Hello'
+summary: ''
 
 # tags:
 # - Source Themes
@@ -62,7 +62,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
 <!-- {{% callout note %}}

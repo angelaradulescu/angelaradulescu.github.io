@@ -11,7 +11,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2023-12-01T00:00:00Z"
-doi: ""
+doi: "10.1371/journal.pcbi.1011707"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-12-01T00:00:00Z"
@@ -65,7 +65,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
 <!-- {{% callout note %}}
