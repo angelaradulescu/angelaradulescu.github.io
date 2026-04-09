@@ -71,8 +71,4 @@ image:
 slides: ''
 ---
 
-<!-- {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+When you search for something in a rich 3D scene, your eyes follow patterns psychologists have long studied. Virtual reality (VR) lets us measure that behavior in settings closer to everyday life. Standard models often assume an unrealistically tidy world, so in this paper we ask how someone with limited time and attention ought to move their gaze. A computational model trained with reinforcement learning predicts gaze shifts that match people’s data in VR, suggesting that naturalistic visual search may reflect a rational use of limited mental resources.

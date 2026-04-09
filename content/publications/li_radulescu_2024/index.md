@@ -73,12 +73,4 @@ projects: []
 slides: ''
 ---
 
-<!-- {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+Mania often manifests as intense goal pursuit, restlessness, and sometimes scattered behavior that is hard to brake. We built a computational model of learning from rewards and gave the learner a *self-efficacy* signal: a dynamic belief that “I can succeed here” that updates as the agent gets closer to its goals. In simulations, when that belief is overly sensitive to progress, the agent develops unrealistic reward expectations, acts more impatiently, chases bigger payoffs even when they are costly, and shows distractibility and eventually rigid, repetitive choices that echo features of mania, suggesting a mechanistic pathway to bipolar disorder.

@@ -68,12 +68,4 @@ projects: []
 slides: ''
 ---
 
-<!-- {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+When you are learning a new task with many possible cues, what you look at and what you learn from can interact with each other; but how that loop is implemented in the brain has not been studied. We had people learn by trial and error in a setting where only one of three kinds of information actually predicted rewards, while tracking their eye movements and using fMRI to decode which dimension they were paying attention to. Using a computational model of choice, we found that attention biased both choices and updating after outcomes. Reward-related brain signals scaled with that focus, and where people directed attention moved as learning progressed -- supporting a two-way interaction between selective attention and reinforcement learning in high-dimensional environments.

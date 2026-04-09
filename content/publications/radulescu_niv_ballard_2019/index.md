@@ -66,12 +66,4 @@ projects: []
 slides: ''
 ---
 
-<!-- {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+To behave well in a busy world, we rely on mental shortcuts -- spotting regularities and mostly ignoring what is irrelevant. Standard reinforcement-learning accounts describe how we learn from rewards, but they miss growing evidence that the *structure* of a task (its hidden rules and patterns) reshapes what we learn and how fast. This review proposes a combined picture: the brain may infer that structure in a flexible, probabilistic way, use those beliefs to steer attention, and let that attention focus reward-based learning on the parts of the environment that actually matter.
