@@ -1,5 +1,5 @@
 ---
-title: 'Modeling human eye movements during immersive visual search'
+title: 'A resource-rational account of human eye movements during visual search in virtual reality'
 
 authors:
 - admin
@@ -7,8 +7,8 @@ authors:
 - Frederick Callaway
 - Thomas L. Griffiths
 - James M. Hillis
-date: "2022-12-01T00:00:00Z"
-doi: ""
+date: "2026-02-01T00:00:00Z"
+doi: "10.1162/OPMI.a.322"
 
 # Author notes (optional)
 author_notes:
@@ -16,7 +16,7 @@ author_notes:
   - 'Equal contribution'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-12-01T00:00:00Z'
+publishDate: '2026-02-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -39,10 +39,10 @@ summary: ''
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://www.biorxiv.org/content/10.1101/2022.12.01.518717v1
+url_pdf: https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.322/135355/A-Resource-Rational-Account-of-Human-Eye-Movements
 url_code: ''
 url_dataset: ''
-url_poster: 'https://baicsworkshop.github.io/program/baics_33.html'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
