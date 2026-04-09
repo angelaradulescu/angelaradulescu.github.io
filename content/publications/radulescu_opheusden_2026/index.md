@@ -1,5 +1,5 @@
 ---
-title: 'A resource-rational account of human eye movements during visual search in virtual reality'
+title: 'A resource-rational account of human eye movements during immersive visual search'
 
 authors:
 - admin
