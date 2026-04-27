@@ -6,7 +6,6 @@ date: "2024-11-10T09:00:00Z"
 date_end: "2024-11-12T18:00:00Z"
 event: New York Computational Psychiatry Workshop
 event_url: https://center-for-computational-psychiatry.github.io/course_nycpw/index.html#
-url: https://center-for-computational-psychiatry.github.io/course_nycpw/index.html#
 featured: false
 image:
   caption: ''

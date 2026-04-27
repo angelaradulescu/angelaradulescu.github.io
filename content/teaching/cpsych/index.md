@@ -12,7 +12,6 @@ date: "2025-02-10T13:00:00Z"
 date_end: ''
 event: BSR2708 Computational Psychiatry
 event_url: https://center-for-computational-psychiatry.github.io/course_fcp/
-url: https://center-for-computational-psychiatry.github.io/course_fcp/
 featured: false
 image:
   caption: ''
