@@ -14,7 +14,7 @@ location: Mt. Sinai Center for Computational Psychiatry
 math: true
 publishDate: "2026-04-26T00:00:00Z"
 slides: ''
-summary: The [New York Computational Psychiatry Workshop](https://center-for-computational-psychiatry.github.io/course_nycpw/index.html#) is an immersive, hands-on training designed to bridge computational cognitive science and psychiatry in ways that are both mechanistically precise and clinically meaningful. The workshop brings together trainees from clinical and quantitative backgrounds to develop a common language and practical modeling toolkit.
+summary: The [New York Computational Psychiatry Workshop](https://center-for-computational-psychiatry.github.io/course_nycpw/index.html#) is an immersive, hands-on training designed to bridge computational cognitive science and psychiatry. The workshop brings together trainees from clinical and quantitative backgrounds to develop a common language and practical modeling toolkit.
 tags: []
 title: New York Computational Psychiatry Workshop
 url_code: ""
