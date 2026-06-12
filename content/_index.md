@@ -40,14 +40,14 @@ sections:
       subtitle: ''
       text: '-  **July 2026**: Teaching at [BAMB!](https://www.bambschool.org/) in Barcelona. </li>
             <li>**June 2026**: Giving a talk at the [Mathematics of Neuroscience and AI conference](https://www.neuromonster.org/) in Rome. </li>
+            <li>**Mar. 2026**: Gave a talk at [Current Directions in Neuroscience and Law](https://centerforjustice.columbia.edu/events/current-directions-neuroscience-law) at Columbia. </li>
             <li>**Feb. 2026**: New paper with Bas van Opheusden, [Fred Callaway](https://fredcallaway.com/), [Tom Griffiths](https://cocosci.princeton.edu/) and James Hillis on [modeling visual search decisions in VR](https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.322/135355/A-Resource-Rational-Account-of-Human-Eye-Movements). </li>
             <li>**Nov. 2025**: The [New York Computational Psychiatry Workshop](https://center-for-computational-psychiatry.github.io/course_nycpw/) will be back this year at Mount Sinai. </li>
-            <li>**Oct. 2025**: The lab has joined a Mount Sinai team awarded a [Discovery Research Grant](https://www.bipolardiscoveries.org/2025/10/bd%c2%b2-awards-18-million-in-grants-to-advance-research-on-the-biology-of-bipolar-disorder/) from the BD2 Foundation! </li> 
+            <li>**Oct. 2025**: The lab has joined a Mount Sinai team awarded a [Discovery Research Grant](https://www.bipolardiscoveries.org/2025/10/bd%c2%b2-awards-18-million-in-grants-to-advance-research-on-the-biology-of-bipolar-disorder/) from the BD<sup>2</sup> Foundation! </li> 
             <li>**Sep. 2025**: Gave a talk at the [Lipschultz Symposium](https://friedmanbrain.icahn.mssm.edu/lipschultz-symposium-2025/) at Mount Sinai. </li>
             <li> **Aug. 2025**: Giving a lecture at the [School on Analytical Connectionism](https://www.analytical-connectionism.net//school/2025/) at UCL. </li>
             <li> **Aug. 2025**: Attending [CCN](https://2025.ccneuro.org/) at the University of Amsterdam. </li>
-            <li>**June 2025**: Gave a talk at [RLDM](https://rldm.org/rldm-2025-recordings/) at Trinity College Dublin. </li>
-            <li>**Jan. 2025**: New paper with Juliana Trach, [Megan DeBettencourt](https://debetten.github.io/) and  [Sam McDougle](https://actcompthink.org/) on [rewarding sustained attention](https://psycnet.apa.org/record/2025-70580-001). </li>'
+            <li>**June 2025**: Gave a talk at [RLDM](https://rldm.org/rldm-2025-recordings/) at Trinity College Dublin. </li>'
     design:
       columns: '1'
       
